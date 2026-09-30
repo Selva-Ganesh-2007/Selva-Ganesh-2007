@@ -188,13 +188,10 @@ practical projects and applications.
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://img.shields.io/badge/Power%20BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=F2C811"
+    src="./assets/powerbi.png"
+    width="60"
     alt="Power BI"
   />
-</p>
-
-<p align="center">
-  <b>Tools</b>
 </p>
 
 <p align="center">
