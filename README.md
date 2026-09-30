@@ -181,17 +181,16 @@ practical projects and applications.
 </p>
 
 <p align="center">
-
   <img
     src="https://skillicons.dev/icons?i=mongodb&theme=dark"
+    width="60"
     alt="MongoDB"
   />
-
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/Power%20BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=F2C811"
     alt="Power BI"
   />
-
 </p>
 
 <p align="center">
